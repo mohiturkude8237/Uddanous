@@ -1563,7 +1563,7 @@ const Slider1 = () => {
   return (
     <div className="p-4 md:p-8 bg-gradient-to-br from-yellow-50 via-orange-50 to-pink-50">
       <h1 className="text-center text-3xl md:text-5xl font-extrabold text-orange-800 mb-10 leading-snug">
-        Empowering Lives, One Act of Kindness at a Time
+        Empowering Lives, One Act of Kindness at a Times
       </h1>
 
       {/* Slider */}
